@@ -1,5 +1,8 @@
 _repo: The-Fayum-and-Lake-M0x153ris_72471
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72471-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, R. H. (Robert Hanbury)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '56693'
     url: http://www.gutenberg.org/2009/agents/56693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72471#The-Fayum-and-Lake-M0x153ris
 gutenberg_issued: '2023-12-21'
 gutenberg_type: Text
 identifiers:
